@@ -6,6 +6,25 @@
  * Made By MaterializeCSS.com
  */
 
+@font-face {
+  font-family: 'StarJedi';
+  src: url('../font/starjedi/Starjedi.woff') format('woff'),
+       url('../font/starjedi/Starjedi.ttf')  format('truetype')
+}
+
+body {
+  background-color: #EEEEEE;
+}
+
+#index-banner {
+    background-image:url('../images/hoff.png');
+    background-size: cover;
+}
+
+h1.header {
+  font-family: StarJedi
+}
+
 .icon-block {
   padding: 0 15px;
 }

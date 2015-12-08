@@ -1,32 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
-  <title>Dundee Duel</title>
-
-  <!-- CSS  -->
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-</head>
-<body>
-  <nav class="blue-grey lighten-2" role="navigation">
-    <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">Dundee Duel</a>
-      <ul class="right hide-on-med-and-down">
-        <li><a href="#">Entering</a></li>
-        <li><a href="#">Location</a></li>
-        <li><a href="#">How it Works</a></li>
-      </ul>
-
-      <ul id="nav-mobile" class="side-nav">
-        <li><a href="#">Entering</a></li>
-        <li><a href="#">Location</a></li>
-        <li><a href="#">How it Works</a></li>
-      </ul>
-      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
-    </div>
-  </nav>
+<?php include ("header.php"); ?>
 
   <div class="container">
     <div class="section">
@@ -78,32 +50,4 @@
     </div>
   </div>
 
-  <footer class="page-footer blue-grey">
-    <div class="container">
-      <div class="row">
-        <div class="col l6 s12">
-          <h5 class="white-text">Dundee City Fencing Club</h5>
-          <p class="grey-text text-lighten-4">We are a small club based in Dundee offering all three weapons for fencers over the age of 8.</p>
-        </div>
-      </div>
-    </div>
-    <div class="footer-copyright">
-      <div class="container">
-        <p>
-          <span class="text">Made with</span> 
-          <span class="heart">&#9829; </span>
-          <span class="text">in Dundee</span>
-        </p>
-      </div>
-    </div>
-  </footer>
-
-
-  <!--  Scripts-->
-  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-  <script src="js/materialize.js"></script>
-  <script src="js/init.js"></script>
-  <script type="text/javascript" src="js/scripts.js"></script>
-
-</body>
-</html>
+<?php include ("footer.php"); ?>
