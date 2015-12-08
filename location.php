@@ -4,7 +4,7 @@
     <div class="row">
       <div class="col sm12 m4">
         <h2>How to find us</h2>
-        <p>Mayfield Sports Center <br/>193 Arbroath Rd<br/>Dundee<br/>DD4 7HS</p>
+        <p>Mayfield Sports Centre <br/>193 Arbroath Rd<br/>Dundee<br/>DD4 7HS</p>
         <p class="light">If you need to get in touch with us on the day, please call us on <strong>PHONENUMBER</strong>
       </div>
 
