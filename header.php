@@ -20,6 +20,7 @@
       </ul>
 
       <ul id="nav-mobile" class="side-nav">
+        <li><a href="index.php">Home</a></li>
         <li><a href="#">Entering</a></li>
         <li><a href="location.php">Location</a></li>
         <li><a href="how-it-works.php">How it Works</a></li>
