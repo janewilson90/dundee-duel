@@ -8,5 +8,7 @@ $(document).ready(function animateHeart() {
       selectYears: 90
     });
 
+    $('select').material_select();
+
 });
 
