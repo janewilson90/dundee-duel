@@ -16,6 +16,16 @@
 
         <div class="row team-member">
           <h5>Team Member 1</h5>
+
+          <div class="input-field col s12 m6">
+            <input id="first_name" type="text" class="validate">
+            <label for="first_name">First Name</label>
+          </div>
+          <div class="input-field col s12 m6">
+            <input id="last_name" type="text" class="validate">
+            <label for="last_name">Last Name</label>
+          </div>
+
           <div class="input-field col s12 m4 ">
             <input id="email" type="email" class="validate">
             <label for="email">Email</label>
@@ -51,6 +61,16 @@
 
         <div class="row team-member">
           <h5>Team Member 2</h5>
+
+          <div class="input-field col s12 m6">
+            <input id="first_name" type="text" class="validate">
+            <label for="first_name">First Name</label>
+          </div>
+          <div class="input-field col s12 m6">
+            <input id="last_name" type="text" class="validate">
+            <label for="last_name">Last Name</label>
+          </div>
+
           <div class="input-field col s12 m4 ">
             <input id="email" type="email" class="validate">
             <label for="email">Email</label>
@@ -86,6 +106,16 @@
 
         <div class="row team-member">
           <h5>Team Member 3</h5>
+
+          <div class="input-field col s12 m6">
+            <input id="first_name" type="text" class="validate">
+            <label for="first_name">First Name</label>
+          </div>
+          <div class="input-field col s12 m6">
+            <input id="last_name" type="text" class="validate">
+            <label for="last_name">Last Name</label>
+          </div>
+          
           <div class="input-field col s12 m4">
             <input id="email" type="email" class="validate">
             <label for="email">Email</label>
