@@ -44,14 +44,13 @@
         <div class="row">
 
           <div class="input-field col s12 m6">
-            <select>
+            <select class="browser-default ">
               <option value="" disabled selected>Choose entry type</option>
               <option value="1">Standard</option>
               <option value="2">School Pupil</option>
               <option value="3">Student</option>
               <option value="4">Veteran</option>
             </select>
-            <label>Individual Category</label>
           </div>
           
           <div class="input-field col s12 m6">

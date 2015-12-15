@@ -18,7 +18,7 @@
 
         </div>
 
-        <div class="row">
+        <div class="row team-name">
           <div class="input-field col s12">
             <input id="team_name" name="team_name" type="text" class="validate">
             <label for="team_name">Team Name</label>
@@ -42,14 +42,13 @@
           </div>
 
           <div class="input-field col s12 m3">
-            <select id="indi-type">
+            <select class="browser-default ">
               <option value="" disabled selected>Choose entry type</option>
               <option value="1">Standard</option>
               <option value="2">School Pupil</option>
               <option value="3">Student</option>
               <option value="4">Veteran</option>
             </select>
-            <label for="indi-type">Individual Category</label>
           </div>
         </div>
 
@@ -70,14 +69,13 @@
           </div>
 
           <div class="input-field col s12 m3">
-            <select id="indi-type">
+            <select class="browser-default ">
               <option value="" disabled selected>Choose entry type</option>
               <option value="1">Standard</option>
               <option value="2">School Pupil</option>
               <option value="3">Student</option>
               <option value="4">Veteran</option>
             </select>
-            <label for="indi-type">Individual Category</label>
           </div>
         </div>
 
@@ -98,15 +96,18 @@
           </div>
 
           <div class="input-field col s12 m3">
-            <select id="indi-type">
+            <select class="browser-default ">
               <option value="" disabled selected>Choose entry type</option>
               <option value="1">Standard</option>
               <option value="2">School Pupil</option>
               <option value="3">Student</option>
               <option value="4">Veteran</option>
             </select>
-            <label for="indi-type">Individual Category</label>
           </div>
+        </div>
+
+        <div class="row submit-entry">
+        <a class="waves-effect waves-light btn"><i class="material-icons left">done</i>Submit Entry</a>
         </div>
 
       </form>
