@@ -60,6 +60,10 @@
 
         </div>
 
+        <div class="row submit-entry">
+          <a class="waves-effect waves-light btn"><i class="material-icons left">done</i>Submit Entry</a>
+        </div>
+
       </form>
 
 
