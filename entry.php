@@ -30,14 +30,19 @@
         </div>
 
         <div class="row">
-          <div class="input-field col s12 m6 ">
+          <div class="input-field col s12 m4 ">
             <input id="email" type="email" class="validate">
             <label for="email">Email</label>
           </div>
 
-          <div class="input-field col s12 m6">
+          <div class="input-field col s12 m4">
             <input id="dob" type="date" class="datepicker">
             <label for="dob">Date of birth</label>
+          </div>
+
+          <div class="input-field col s12 m4">
+            <input id="phonenum" type="tel">
+            <label for="phonenum">Contact tel</label>
           </div>
         </div>
 

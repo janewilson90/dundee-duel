@@ -7,17 +7,6 @@
 
       <form class="col s12">
 
-        <div class="row">
-
-          <div class="input-field col s12">
-            <input type="radio" name="entry-type" class="with-gap" value="team" id="team"/> 
-            <label for="team">Team</label>
-            <input type="radio" name="entry-type" class="with-gap" value="individual" id="individual"/>
-            <label for="individual">Individual</label>
-          </div>
-
-        </div>
-
         <div class="row team-name">
           <div class="input-field col s12">
             <input id="team_name" name="team_name" type="text" class="validate">
@@ -26,22 +15,28 @@
         </div>
 
         <div class="row team-member">
-          <div class="input-field col s12 m3 ">
+          <h5>Team Member 1</h5>
+          <div class="input-field col s12 m4 ">
             <input id="email" type="email" class="validate">
             <label for="email">Email</label>
           </div>
 
-          <div class="input-field col s12 m3">
+          <div class="input-field col s12 m4">
+            <input id="phonenum" type="tel">
+            <label for="phonenum">Contact tel</label>
+          </div>
+
+          <div class="input-field col s12 m4">
             <input id="dob" type="date" class="datepicker">
             <label for="dob">Date of birth</label>
           </div>
 
-          <div class="input-field col s12 m3">
+          <div class="input-field col s12 m6">
             <input id="bfa" type="text">
             <label for="bfa">British Fencing Number</label>
           </div>
 
-          <div class="input-field col s12 m3">
+          <div class="input-field col s12 m6">
             <select class="browser-default ">
               <option value="" disabled selected>Choose entry type</option>
               <option value="1">Standard</option>
@@ -52,23 +47,31 @@
           </div>
         </div>
 
+        <hr/>
+
         <div class="row team-member">
-          <div class="input-field col s12 m3 ">
+          <h5>Team Member 2</h5>
+          <div class="input-field col s12 m4 ">
             <input id="email" type="email" class="validate">
             <label for="email">Email</label>
           </div>
 
-          <div class="input-field col s12 m3">
+          <div class="input-field col s12 m4">
+            <input id="phonenum" type="tel">
+            <label for="phonenum">Contact tel</label>
+          </div>
+
+          <div class="input-field col s12 m4">
             <input id="dob" type="date" class="datepicker">
             <label for="dob">Date of birth</label>
           </div>
 
-          <div class="input-field col s12 m3">
+          <div class="input-field col s12 m6">
             <input id="bfa" type="text">
             <label for="bfa">British Fencing Number</label>
           </div>
 
-          <div class="input-field col s12 m3">
+          <div class="input-field col s12 m6">
             <select class="browser-default ">
               <option value="" disabled selected>Choose entry type</option>
               <option value="1">Standard</option>
@@ -79,23 +82,31 @@
           </div>
         </div>
 
+        <hr/>
+
         <div class="row team-member">
-          <div class="input-field col s12 m3 ">
+          <h5>Team Member 3</h5>
+          <div class="input-field col s12 m4">
             <input id="email" type="email" class="validate">
             <label for="email">Email</label>
           </div>
 
-          <div class="input-field col s12 m3">
+          <div class="input-field col s12 m4">
+            <input id="phonenum" type="tel">
+            <label for="phonenum">Contact tel</label>
+          </div>
+
+          <div class="input-field col s12 m4">
             <input id="dob" type="date" class="datepicker">
             <label for="dob">Date of birth</label>
           </div>
 
-          <div class="input-field col s12 m3">
+          <div class="input-field col s12 m6">
             <input id="bfa" type="text">
             <label for="bfa">British Fencing Number</label>
           </div>
 
-          <div class="input-field col s12 m3">
+          <div class="input-field col s12 m6">
             <select class="browser-default ">
               <option value="" disabled selected>Choose entry type</option>
               <option value="1">Standard</option>
