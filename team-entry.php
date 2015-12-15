@@ -117,6 +117,57 @@
           </div>
         </div>
 
+        <div class="row">
+          <div class=" tshirts col s12">
+            <div class="card">
+              <div class="card-content tshirt-card">
+                <div class="card-title">TShirts</div>
+                <form class="tshirt-form">
+                  <div class="input-field col s12 m4">
+                    <select class="browser-default ">
+                      <option value="" disabled selected>Choose tshirt size</option>
+                      <option value="1">Male S</option>
+                      <option value="2">Male M</option>
+                      <option value="3">Male L</option>
+                      <option value="4">Male XL</option>
+                      <option value="1">Female S</option>
+                      <option value="2">Female M</option>
+                      <option value="3">Female L</option>
+                      <option value="4">Female XL</option>
+                    </select>
+                  </div>
+                  <div class="input-field col s12 m4">
+                    <select class="browser-default ">
+                      <option value="" disabled selected>Choose tshirt size</option>
+                      <option value="1">Male S</option>
+                      <option value="2">Male M</option>
+                      <option value="3">Male L</option>
+                      <option value="4">Male XL</option>
+                      <option value="1">Female S</option>
+                      <option value="2">Female M</option>
+                      <option value="3">Female L</option>
+                      <option value="4">Female XL</option>
+                    </select>
+                  </div>
+                  <div class="input-field col s12 m4">
+                    <select class="browser-default ">
+                      <option value="" disabled selected>Choose tshirt size</option>
+                      <option value="1">Male S</option>
+                      <option value="2">Male M</option>
+                      <option value="3">Male L</option>
+                      <option value="4">Male XL</option>
+                      <option value="1">Female S</option>
+                      <option value="2">Female M</option>
+                      <option value="3">Female L</option>
+                      <option value="4">Female XL</option>
+                    </select>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <div class="row submit-entry">
           <a class="waves-effect waves-light btn"><i class="material-icons left">done</i>Submit Entry</a>
         </div>

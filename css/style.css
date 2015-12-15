@@ -32,6 +32,10 @@ h1.header {
 	font-size: inherit;
 }
 
+.tshirt-card {
+  overflow: auto;
+}
+
 
 .text {
   font: italic 14px Georgia;
